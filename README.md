@@ -1,2 +1,2 @@
 # react-phaser-express
-boilerplate for react phaser express stacks 
+wrapper for react phaser express stacks 
