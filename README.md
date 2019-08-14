@@ -1,3 +1,3 @@
 # react-phaser-express
 
-npm init to download all the dependencies, and begin development. 
+npm install to download all the dependencies, and begin development. 
