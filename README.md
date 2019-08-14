@@ -1,2 +1,3 @@
 # react-phaser-express
-wrapper for react phaser express stacks 
+
+npm init to download all the dependencies, and begin development. 
