@@ -1,2 +1,3 @@
 # react-phaser-express
-boilerplate for react phaser express stacks 
+
+npm install to download all the dependencies, and begin development. 
